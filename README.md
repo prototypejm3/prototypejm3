@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @prototypejm3
-- 👀 I’m a Tech recruiter looking to connect with the top 1%
 - 📫 How to reach me ...https://www.linkedin.com/in/jayme-karr/
 
 <!---

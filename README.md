@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 Check out some of my builds: 
 indexdiscovery.com
 alignmentcompass.org
-swatch-box-studio.lovable.app
+swatchboxstudio.org
